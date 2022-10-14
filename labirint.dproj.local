@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.044,=C:\Users\Asus\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.419,=C:\Users\Asus\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.018,=C:\Users\Asus\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.893,C:\Users\Asus\Documents\Embarcadero\Studio\Projects\Unit5.pas=C:\Users\Asus\Documents\Embarcadero\Studio\Projects\UPaintLab.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.738,C:\Users\Asus\Documents\Embarcadero\Studio\Projects\Unit5.pas=C:\Users\Asus\Documents\Embarcadero\Studio\Projects\UnitStart.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.135,C:\Users\Asus\Documents\Embarcadero\Studio\Projects\Unit5.pas=C:\Users\Asus\Documents\Embarcadero\Studio\Projects\UKvest.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.738,C:\Users\Asus\Documents\Embarcadero\Studio\Projects\Unit5.dfm=C:\Users\Asus\Documents\Embarcadero\Studio\Projects\UnitStart.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.894,C:\Users\Asus\Documents\Embarcadero\Studio\Projects\Unit5.dfm=C:\Users\Asus\Documents\Embarcadero\Studio\Projects\UPaintLab.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.135,C:\Users\Asus\Documents\Embarcadero\Studio\Projects\Unit5.dfm=C:\Users\Asus\Documents\Embarcadero\Studio\Projects\UKvest.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.486,C:\Users\Asus\Documents\Embarcadero\Studio\Projects\labirint.dproj=C:\Users\Asus\Documents\Embarcadero\Studio\Projects\labirint.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.500,C:\Users\Asus\Documents\Embarcadero\Studio\Projects\Project7.dproj=C:\Users\Asus\Documents\Embarcadero\Studio\Projects\labirint.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
